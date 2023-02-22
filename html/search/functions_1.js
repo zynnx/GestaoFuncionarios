@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['calculovencimentos_245',['calculoVencimentos',['../vencimentos_8c.html#a86f0be9170df7817219f6e584af44327',1,'calculoVencimentos(FUNCIONARIOS funcionario):&#160;vencimentos.c'],['../vencimentos_8h.html#a86f0be9170df7817219f6e584af44327',1,'calculoVencimentos(FUNCIONARIOS funcionario):&#160;vencimentos.c']]],
+  ['cargoempresa_246',['cargoEmpresa',['../funcionarios_8c.html#acec337cafed004b729b6366de77a29f9',1,'cargoEmpresa():&#160;funcionarios.c'],['../funcoes_8h.html#acec337cafed004b729b6366de77a29f9',1,'cargoEmpresa():&#160;funcionarios.c']]],
+  ['carregarfuncionarios_247',['carregarFuncionarios',['../ficheiros_8c.html#a4db9a6357eb12be25bc02aa3bfcc8475',1,'carregarFuncionarios(FUNCIONARIOS *funcionarios, char *file):&#160;ficheiros.c'],['../ficheiros_8h.html#a4db9a6357eb12be25bc02aa3bfcc8475',1,'carregarFuncionarios(FUNCIONARIOS *funcionarios, char *file):&#160;ficheiros.c']]],
+  ['carregartabelairs_248',['carregarTabelaIRS',['../ficheiros_8c.html#a07173af8b76138bc9e44a5fa0128e3a8',1,'carregarTabelaIRS(TAXAS_RETENCOES_IRS *taxas_retencoes_irs, char *file):&#160;ficheiros.c'],['../ficheiros_8h.html#a07173af8b76138bc9e44a5fa0128e3a8',1,'carregarTabelaIRS(TAXAS_RETENCOES_IRS *taxas_retencoes_irs, char *file):&#160;ficheiros.c']]],
+  ['carregartabelass_249',['carregarTabelaSS',['../ficheiros_8c.html#a34641611a5c2f002e17a3a38e9816570',1,'carregarTabelaSS(SSOCIAL *taxa, char *file):&#160;ficheiros.c'],['../ficheiros_8h.html#a3016eed8767b90cf5f97b4e4166e08c9',1,'carregarTabelaSS(SSOCIAL *taxaContributiva, char *file):&#160;ficheiros.c']]],
+  ['cleaninputbuffer_250',['cleanInputBuffer',['../input_8c.html#a11ac4d3ec555747d95fee8ae7aa18b5d',1,'cleanInputBuffer():&#160;input.c'],['../input_8h.html#a11ac4d3ec555747d95fee8ae7aa18b5d',1,'cleanInputBuffer():&#160;input.c']]],
+  ['clrscr_251',['clrscr',['../input_8c.html#af3eac3ad203ab091baad010ef3f7ab0a',1,'clrscr():&#160;input.c'],['../input_8h.html#af3eac3ad203ab091baad010ef3f7ab0a',1,'clrscr():&#160;input.c']]]
+];
